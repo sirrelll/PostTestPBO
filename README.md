@@ -3,7 +3,7 @@ Darel Prasetya Fawwaz
 NIM : 2409116064
 Sistem Informasi - B 24
 
-**Deskripsi Program**
+*Deskripsi Program*
 Program ini dibuat dengan menggunakan bahasa pemrograman Java di NetBeans dengan menerapkan konsep CRUD (Create, Read, Update, Delete), Data data event disimpan dalam sebuah ArrayList agar dapat menampung data secara dinamis. Program ini dibuat untuk bisa mengelola informasi event atau konser, sehingga pengguna bisa menyusun daftar acara secara lebih teratur karena disetiap event memiliki nama dan tanggal pelaksanaan
 ============================================================================================================================
 **Penjelasan Code**
