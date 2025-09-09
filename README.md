@@ -67,6 +67,32 @@ Dan akan menghasilkan:
 
 <img width="197" height="45" alt="Screenshot 2025-09-09 195657" src="https://github.com/user-attachments/assets/c2ad2d09-5cf7-4c15-8d62-91115a73329d" />
 
+==============================================================================
+
+<img width="612" height="375" alt="Screenshot 2025-09-09 200330" src="https://github.com/user-attachments/assets/b3db93b4-e844-4f99-b57e-28e59429a645" />
+
+Pada case 4 ini yaitu Delete yang berfungsi untuk menghapus event yang sudah ada.
+
+Contohnya seperti ini:
+
+<img width="283" height="73" alt="Screenshot 2025-09-09 195709" src="https://github.com/user-attachments/assets/418aa623-0a44-4974-8878-0c0e3c5651b6" />
+
+Dan akan menghasilkan tampilan:
+
+<img width="183" height="43" alt="Screenshot 2025-09-09 195715" src="https://github.com/user-attachments/assets/431ba049-e234-4bc7-ba1d-97a86f4c7f35" />
+
+==============================================================================
+
+<img width="515" height="74" alt="Screenshot 2025-09-09 200533" src="https://github.com/user-attachments/assets/a7467031-7edf-4c68-9f1a-ca6915535736" />
+
+Di case 5 ini adalah untuk Keluar dari loop serta programnya, Jadi dengan pengguna menginput angka 5 maka program akan selesai, dan jika input pilihan tidak valid maka akan menampilkan pesan "Pilihan tidak ada, Coba lagi".
+
+<img width="291" height="143" alt="Screenshot 2025-09-09 200730" src="https://github.com/user-attachments/assets/9f0599b5-e3f7-4eb8-930d-6812e667f338" />
+
+==============================================================================
+
+
+
 
 
 
